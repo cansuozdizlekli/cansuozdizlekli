@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 Based in 🇹🇷<br><br>💻 Working as iOS Developer Intern @Kuka Apps<br><br>🏫 Student in Ankara University (senior year)<br><br>🤝 Open for freelance projects in iOS field<br><br>🌱 Currently learning iOS Stack and getting better day by day<br>
+🌍 Based in 🇹🇷<br><br>🏫 Student in Ankara University (senior year)<br><br>🤝 Open for freelance projects in iOS field<br><br>🌱 Currently learning iOS Stack and getting better day by day<br>
 
 
 ## 🌐 Socials:
