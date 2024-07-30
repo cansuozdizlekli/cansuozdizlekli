@@ -1,6 +1,5 @@
 # 💫 About Me:
-🌍 Based in 🇹🇷<br><br>🏫 Student in Ankara University (senior year)<br><br>🌱 Currently learning iOS Stack and getting better day by day<br>
-
+🌍 Based in 🇹🇷<br><br>💻 Working as a Jr. iOS Developer at Mobven<br><br>🏫 Graduated from Ankara University<br><br>🌱 Currently learning iOS Stack and getting better day by day<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bilgisayarmuhendisi1kadin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cansuozdizlekli) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cansuozdizlekli) 
